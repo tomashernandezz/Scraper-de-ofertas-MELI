@@ -37,3 +37,13 @@ Incluye **deduplicación** para evitar repetidos y **descarga opcional de imáge
 Instalación:
 ```bash
 pip install -r requirements.txt
+```
+
+Ejecución
+
+```bash
+python mercadolibre.py
+```
+
+
+
