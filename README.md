@@ -30,3 +30,10 @@ Incluye **deduplicación** para evitar repetidos y **descarga opcional de imáge
 
 - Python **3.10+**
 - Dependencias:
+  - `requests`
+  - `beautifulsoup4`
+  - `openpyxl`
+
+Instalación:
+```bash
+pip install -r requirements.txt
